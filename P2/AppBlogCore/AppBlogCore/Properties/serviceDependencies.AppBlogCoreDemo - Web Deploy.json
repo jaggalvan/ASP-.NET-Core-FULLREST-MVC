@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "mssql2": {
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/blogcoredemodbserver1/databases/BlogCoreDemo_database",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:ConexionSQL",
+      "dynamicId": null
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\ASPNET\P2\AppBlogCore\BlogCore.Models\bin\Release\net7.0\BlogCore.Models.deps.json
+C:\ASPNET\P2\AppBlogCore\BlogCore.Models\bin\Release\net7.0\BlogCore.Models.dll
+C:\ASPNET\P2\AppBlogCore\BlogCore.Models\bin\Release\net7.0\BlogCore.Models.pdb
+C:\ASPNET\P2\AppBlogCore\BlogCore.Models\obj\Release\net7.0\BlogCore.Models.csproj.AssemblyReference.cache
+C:\ASPNET\P2\AppBlogCore\BlogCore.Models\obj\Release\net7.0\BlogCore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASPNET\P2\AppBlogCore\BlogCore.Models\obj\Release\net7.0\BlogCore.Models.AssemblyInfoInputs.cache
+C:\ASPNET\P2\AppBlogCore\BlogCore.Models\obj\Release\net7.0\BlogCore.Models.AssemblyInfo.cs
+C:\ASPNET\P2\AppBlogCore\BlogCore.Models\obj\Release\net7.0\BlogCore.Models.csproj.CoreCompileInputs.cache
+C:\ASPNET\P2\AppBlogCore\BlogCore.Models\obj\Release\net7.0\BlogCore.Models.dll
+C:\ASPNET\P2\AppBlogCore\BlogCore.Models\obj\Release\net7.0\refint\BlogCore.Models.dll
+C:\ASPNET\P2\AppBlogCore\BlogCore.Models\obj\Release\net7.0\BlogCore.Models.pdb
+C:\ASPNET\P2\AppBlogCore\BlogCore.Models\obj\Release\net7.0\ref\BlogCore.Models.dll
